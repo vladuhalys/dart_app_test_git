@@ -1,4 +1,6 @@
+num Sum(num a, num b) => a + b;
+
 void main()
 {
-  print('hello dev!');
+  print(Sum(1, 2));
 }
